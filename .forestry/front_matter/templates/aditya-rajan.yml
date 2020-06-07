@@ -8,3 +8,7 @@ fields:
     required: false
   label: bac
   hidden: false
+- name: aaa
+  type: tag_list
+  default: []
+  label: aaa
